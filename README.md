@@ -1,1 +1,4 @@
-Telegram bot that detects user ID, first name, last name and username
+## Telegram bot 
+
+- java dasturlash tilida qilingan telegram bot
+
